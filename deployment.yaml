@@ -51,6 +51,6 @@ spec:
         ports:
         - containerPort: 8081
       - name: airportnames
-        image: registry.hub.docker.com/rmerces/airportnames
+        image: registry.hub.docker.com/gcbrandao/airportnames
         ports:
         - containerPort: 8080
